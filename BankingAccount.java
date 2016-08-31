@@ -10,7 +10,7 @@ public class BankingAccount {
                 
         Scanner accNumber = new Scanner(System.in);
         // Reading from System.in
-        System.out.println("Enter a number: ");
+        System.out.println("Enter Account number: ");
         int n = 0;
         
         try{
